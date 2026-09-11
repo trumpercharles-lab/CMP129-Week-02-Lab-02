@@ -27,6 +27,6 @@ public class Person {
     }
 
     public void displayInfo(){
-        System.out.print("Name: "+name+" | Age: "+age+" | Email: "+email);
+        System.out.print("Name: "+name+" | Age: "+age+" | Email: "+email+"\n");
     }
 }
